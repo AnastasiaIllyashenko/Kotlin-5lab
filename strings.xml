@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">My List</string>
+<string name="add_item">Add Item</string>
+<string name="add">Add</string>
+<string name="edit">Edit</string>
+<string name="delete">Delete</string>
+<string name="bought_items_count">Bought items: %1$d</string>
+</resources>
